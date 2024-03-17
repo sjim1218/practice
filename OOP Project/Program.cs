@@ -10,7 +10,7 @@ namespace OOP_Project
     {
         static void Main(string[] args)
         {
-            // Git Test ffdsfasfdsafdfdsaf
+            // Git Test ffdsfasfdsafdfdsaffasfsefawsfawe
             Customer customer = new Customer();
             List<MenuItem> menuItems = Initialize();
 
