@@ -10,6 +10,7 @@ namespace OOP_Project
     {
         static void Main(string[] args)
         {
+            // 추가
             Customer customer = new Customer();
             List<MenuItem> menuItems = Initialize();
 
