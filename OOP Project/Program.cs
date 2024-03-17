@@ -10,7 +10,7 @@ namespace OOP_Project
     {
         static void Main(string[] args)
         {
-            // 메세지 수정
+            // Git Test
             Customer customer = new Customer();
             List<MenuItem> menuItems = Initialize();
 
